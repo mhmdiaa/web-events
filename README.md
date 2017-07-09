@@ -1,0 +1,1 @@
+A list of web events collected from: [MDN's Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
